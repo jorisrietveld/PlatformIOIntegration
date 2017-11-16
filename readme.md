@@ -1,11 +1,11 @@
 # Embedded and IOT Development plugin
 >I always wanted to create an plugin for jetbrains to learn about there plugin system and dive deeper 
-in Java development. For embedded development I often use [Clion]() for writing the code in combination 
-with [PlatformIO Core]() for uploading the code to my Arduino, Atmega32 and other embedded development 
-boards/MicroControllers. I really enjoy PlatformIO but I don't feel quite comfortable using there complete 
-IDE because I already spend a lot of time learning getting used to jetbrains. 
+in Java development. For embedded development I often use [Clion](https://www.jetbrains.com/clion/) for writing the code in combination 
+with [PlatformIO Core](http://docs.platformio.org/en/latest/core.html) for uploading the code to my Arduino, Atmega32 and other embedded development 
+boards/MicroControllers. I really enjoy PlatformIO but I don't feel quite comfortable using there [complete 
+IDE](http://docs.platformio.org/en/latest/ide/atom.html) because I already spend a lot of time learning getting used to jetbrains. 
 
-I want to create an Plugin for jetbrains Clion that integrates with [the PlatformIO core]() for managing 
+I want to create an Plugin for jetbrains Clion that integrates with the PlatformIO core for managing 
 libraries, development boards and development platforms. The plugin will add several features to Clion like
 A new project wizards, new language support, configurable plugin settings, tool windows and project templates.
 _Every thing after an **It would be nice** and **Optional** will be added only if there is is enough time available_
