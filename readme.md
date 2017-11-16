@@ -1,4 +1,4 @@
-#Embedded and IOT Development plugin
+# Embedded and IOT Development plugin
 >I always wanted to create an plugin for jetbrains to learn about there plugin system and dive deeper 
 in Java development. For embedded development I often use [Clion]() for writing the code in combination 
 with [PlatformIO Core]() for uploading the code to my Arduino, Atmega32 and other embedded development 
