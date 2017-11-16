@@ -58,9 +58,9 @@ The following features will I implement:
 - [ ] Create package diagram UML to get an global overview of all the classes that will need to be created.
 - [ ] Create class diagram UML that show what attributes and behaviours of each class haves. 
 - [ ] Get the class diagram UML approved by an teacher. 
-- [ ] Implementing all classes using [TDD]() so each behaviour is covered by unit tests.
+- [ ] Implementing all classes using [TDD](https://www.youtube.com/watch?v=qmS4ojQ1Pa8) so each behaviour is covered by unit tests.
 - [ ] Test each feature inside the Clion IDE to check if it actually works.
-    - [ ] Test each feature on :heard: Linux.
+    - [ ] Test each feature on  :penguin: Linux.
     - [ ] Test each feature on Windows.
     - [ ] Ask someone to test each feature on mac.
 - [ ] Try to get the plugin into the plugin distribution repositories.     
